@@ -55,6 +55,7 @@ Client and server packs are published as [GitHub Releases](https://github.com/Kr
 | JEI (Just Enough Items) | Recipe browser |
 | AppleSkin | Hunger and saturation display |
 | In Control! | Custom mob spawn rules |
+| Serene Seasons | Seasonal weather and world changes |
 
 ### Server Utilities
 | Mod | Notes |
@@ -65,9 +66,10 @@ Client and server packs are published as [GitHub Releases](https://github.com/Kr
 | Spark | Server performance profiler |
 | Clumps | XP orb merging (performance) |
 | FerriteCore | Memory usage optimizations |
+| Chunky | Server-side chunk pre-generation |
 
 ### Libraries
-GeckoLib · CoroUtil · Puzzles Lib · Atlas Lib · Cloth Config · Curios · FTB Library · Architectury
+GeckoLib · CoroUtil · Puzzles Lib · Atlas Lib · Cloth Config · Curios · FTB Library · Architectury · GlitchCore
 
 ### Client-Only (in mrpack, never on server)
 | Mod | Notes |
@@ -78,14 +80,20 @@ GeckoLib · CoroUtil · Puzzles Lib · Atlas Lib · Cloth Config · Curios · FT
 | Default Options | Ships sane default keybinds and settings |
 | Balm | Client library (Xaero dependency) |
 | Xaero's World Map | Full-screen world map |
+| Kotlin for Forge | Required by Inventory Profiles Next |
 | Inventory Profiles Next | Auto-sort, trash slot, auto-refill |
 | libIPN | Library required by IPN |
+| Ambient Sounds | Atmospheric ambient soundscapes |
+| Falling Leaves | Leaf particle effects |
+| Sound Physics Remastered | Realistic sound propagation and reverb |
+| CreativeCore | Library required by Ambient Sounds |
 
 ### Bundled Resource Packs & Shaders
 | Asset | Notes |
 |-------|-------|
 | Tissou's Zombie Pack | High-res zombie texture overhaul |
 | Fresh Animations | Smoother vanilla mob animations |
+| Horror Ambience Echoes OST | Full music replacement — dark atmospheric horror tracks |
 | Complementary Reimagined | Default shader (can disable in-game) |
 
 ---
