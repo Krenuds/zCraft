@@ -1,6 +1,6 @@
-# zCraft — Zombie Apocalypse
+# zCraft - Zombie Apocalypse
 
-A curated zombie-survival modpack for Minecraft 1.20.1 (Forge). Built for a private 20–50 player server running US-based.
+A curated zombie-survival modpack for Minecraft 1.20.1 (Forge). Built for a private 20-50 player server running US-based.
 
 Client and server packs are published as [GitHub Releases](https://github.com/Krenuds/zCraft/releases).
 
@@ -8,9 +8,15 @@ Client and server packs are published as [GitHub Releases](https://github.com/Kr
 
 ## Install (Prism Launcher)
 
-1. Download the latest `.mrpack` from [Releases](https://github.com/Krenuds/zCraft/releases)
-2. In Prism Launcher: **Add Instance → Import** → select the `.mrpack`
-3. Launch — all mods install automatically
+**Option A - paste the URL directly (fastest):**
+1. In Prism Launcher: **Add Instance -> Import**
+2. Paste the `.mrpack` URL from the [latest release](https://github.com/Krenuds/zCraft/releases/latest) and click OK
+3. Launch - all mods install automatically
+
+**Option B - download first:**
+1. Download the `.mrpack` from [Releases](https://github.com/Krenuds/zCraft/releases)
+2. In Prism Launcher: **Add Instance -> Import** -> select the file
+3. Launch - all mods install automatically
 
 > Requires Java 17. Forge 1.20.1 (build 47.4.10) is bundled in the pack.
 
@@ -53,7 +59,7 @@ Client and server packs are published as [GitHub Releases](https://github.com/Kr
 ### Server Utilities
 | Mod | Notes |
 |-----|-------|
-| Discord Integration | Discord ↔ in-game chat + whitelist management |
+| Discord Integration | Discord/in-game chat bridge + whitelist management |
 | FTB Essentials | /home, /tpa, and other QoL commands |
 | Simple Voice Chat | Proximity voice chat |
 | Spark | Server performance profiler |
@@ -87,4 +93,4 @@ GeckoLib · CoroUtil · Puzzles Lib · Atlas Lib · Cloth Config · Curios · FT
 ## Server Info
 
 - **Version:** Minecraft Java 1.20.1, Forge 47.4.10
-- **Whitelist:** Discord-managed — join the Discord and use `!link` to get whitelisted
+- **Whitelist:** Discord-managed - join the Discord and use `!link` to get whitelisted
